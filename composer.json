@@ -1,5 +1,5 @@
 {
-    "name": "bcc/resque-bundle",
+    "name": "aherlambang/resque-bundle",
     "type": "symfony-bundle",
     "description": "BCCResqueBundle",
     "keywords": ["resque job queue management"],
@@ -18,7 +18,7 @@
         "chrisboulton/php-resque-scheduler": "dev-master"
     },
     "autoload": {
-        "psr-0": { "BCC\\ResqueBundle": "" }
+        "psr-0": { "aherlambang\\ResqueBundle": "" }
     },
-    "target-dir": "BCC/ResqueBundle"
+    "target-dir": "aherlambang/ResqueBundle"
 }
